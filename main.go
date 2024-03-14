@@ -30,7 +30,7 @@ import (
 	"github.com/la5nta/wl2k-go/catalog"
 	"github.com/la5nta/wl2k-go/fbb"
 	"github.com/la5nta/wl2k-go/mailbox"
-	"github.com/la5nta/wl2k-go/rigcontrol/hamlib"
+	"github.com/pnousiai/wl2k-go/rigcontrol/hamlib"
 	"github.com/spf13/pflag"
 )
 

@@ -20,6 +20,8 @@ require (
 	github.com/pd0mz/go-maidenhead v1.0.0
 	github.com/peterh/liner v1.2.1
 	github.com/spf13/pflag v1.0.5
+	github.com/pnousiai/wl2k-go/rigcontrol v0.0.1
+
 )
 
 require (
