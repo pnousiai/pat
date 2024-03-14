@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/la5nta/wl2k-go/rigcontrol/hamlib"
+	"github.com/pnousiai/wl2k-go/rigcontrol/hamlib"
 )
 
 var bands = map[string]Band{
